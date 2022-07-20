@@ -1,1 +1,3 @@
-I am  a Trainee  
+I am  a Trainee 
+Under Automation Testing 
+learning Selenium 
