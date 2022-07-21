@@ -1,3 +1,8 @@
-Temporory
+<<<<<<< HEAD
+Everything is Temporory nothing is permanent 
 something is added
 newline is added in master branch 
+=======
+new line is added in test branch
+newline is commited in test branch
+>>>>>>> Test
